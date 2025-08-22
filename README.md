@@ -4,6 +4,8 @@
 🚀 Visita la aplicación en vivo aquí: (https://film-finder-puce.vercel.app/)
 
 Características:
+
+
   Busca películas y series usando la API de OMDb.
 
   Muestra una lista dinámica de resultados con póster, título y año.
@@ -15,6 +17,8 @@ Características:
   Muestra un mensaje claro si no se encuentran resultados o si hay un error de conexión.
 
 Tecnologías Utilizadas:
+
+
   Next.js: El framework de React para la construcción de la aplicación.
 
   React: La biblioteca principal para la interfaz de usuario.

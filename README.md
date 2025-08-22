@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+**FilmFinder**
+¡Bienvenido a FilmFinder! Una moderna aplicación web para buscar películas, series y otros títulos.
 
-## Getting Started
+🚀 Visita la aplicación en vivo aquí: (https://film-finder-puce.vercel.app/)
 
-First, run the development server:
+Características:
+  Busca películas y series usando la API de OMDb.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+  Muestra una lista dinámica de resultados con póster, título y año.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  Diseño moderno y limpio, optimizado para una excelente experiencia de usuario.
+  
+  Interfaz completamente responsive, adaptada a cualquier dispositivo.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+  Muestra un mensaje claro si no se encuentran resultados o si hay un error de conexión.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Tecnologías Utilizadas:
+  Next.js: El framework de React para la construcción de la aplicación.
 
-## Learn More
+  React: La biblioteca principal para la interfaz de usuario.
 
-To learn more about Next.js, take a look at the following resources:
+  TypeScript: Para un código robusto y seguro con tipado estático.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  Tailwind CSS: El framework de CSS para el diseño rápido y el estilizado.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+  Vercel: Para un despliegue y una gestión de proyectos sencillos.
